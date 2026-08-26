@@ -25,7 +25,8 @@ export const experiences: Experience[] = [
       "United Rehab: inbound fax OCR, patient intake, insurance extraction, RingCentral for the fax line.",
       "Automotive Strategies: Playwright jobs that log into Toyota/LEO, buy ZIP-segmented marketing lists, and dump them for dealers.",
       "Park-and-Tow: Retell voice dashboard, RingCentral call sync and recordings, Omadi listing scrape.",
-      "Also LessonLoop, CNTNDR, Everon CRM, RCS, Mobile Expert, Design Democracy, ABS tender scanner, and the Ubiquify marketing site.",
+      "LessonLoop: K-12 educator portal for lesson planning and class surveys. CNTNDR: white-label fitness app with video and Stripe billing. Everon: dealer CRM for call, SMS, and email campaigns.",
+      "Also a street-video analysis tool (RCS), a T-Mobile plan Q&A prototype, Design Democracy for workplace layout voting, a Pakistan government tender scanner, and the company marketing site.",
     ],
     achievements: [
       "Helped take several client apps from empty repo to something staff use daily.",

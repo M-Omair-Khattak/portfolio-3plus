@@ -13,7 +13,7 @@ export const profile = {
   availability: "Available within 24 hours",
   resumePath: "/resume/Muhammad_Omair_Resume.pdf",
   bio: `I'm a Full Stack Developer with 3+ years of expertise building scalable, production-ready web applications. I specialize in Python (Django, Flask, FastAPI) and TypeScript (React, Next.js), with solid experience in REST APIs, AWS, Docker, and CI/CD pipelines.`,
-  extendedBio: `My ability to design RESTful APIs, develop full-stack solutions, and deploy reliable services using modern DevOps practices has established a strong foundation in cloud platforms, containerization, and client product delivery. After Arbisoft work on healthcare, PropTech, and e-commerce platforms, I now build operations tools at Ubiquify. I'm an AI-native developer — daily user of Cursor and Claude — delivering production-ready applications faster without cutting quality.`,
+  extendedBio: `My ability to design RESTful APIs, develop full-stack solutions, and deploy reliable services using modern DevOps practices has established a strong foundation in cloud platforms, containerization, and client product delivery. After Arbisoft work on healthcare, PropTech, and e-commerce platforms, I now build operations tools at Ubiquify. I'm an AI-native developer, daily user of Cursor and Claude, delivering production-ready applications faster without cutting quality.`,
   values: [
     {
       title: "AI-Native Workflow",
@@ -44,9 +44,9 @@ export const profile = {
     "AI integrations with Claude & OpenAI APIs",
   ],
   process: [
-    "Requirements analysis — sharp questions, no waiting for specs",
-    "Rapid prototyping with AI assistance — working demo within days",
+    "Requirements analysis, sharp questions, no waiting for specs",
+    "Rapid prototyping with AI assistance, working demo within days",
     "Clean, production-grade code with tests and documentation",
-    "Deployment & monitoring — CI/CD, error tracking, logging",
+    "Deployment & monitoring, CI/CD, error tracking, logging",
   ],
 } as const;
